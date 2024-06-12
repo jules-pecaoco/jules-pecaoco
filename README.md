@@ -7,9 +7,20 @@
 
 - 👨‍💻 All of my projects are available [@jules-pecaoco](github.com/jules-pecaoco)
 
-- 💬 Ask me about **Life Existential Crisis and Philosophy  **
+- 💬 Ask me about **Life Existential Crisis and Philosophy**
 
 - ⚡ Fun fact **Sharks are older than Trees**
+
+<h2 align="left"><u><b>Socials</b></u></h2> 
+<a href="https://www.instagram.com/jules.susz/" target="_blank">
+  <img a src="https://skillicons.dev/icons?i=instagram&perline=4" alt="icons"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=julesalfonzp@gmail.com" target="_blank">
+  <img a src="https://skillicons.dev/icons?i=gmail&perline=4" alt="icons"/>
+</a>
+<a href="https://www.linkedin.com/in/julesalfonzpecaoco/" target="_blank">
+  <img a src="https://skillicons.dev/icons?i=linkedin&perline=4" alt="icons"/>
+</a>
 
 <h2 align="left"><u><b>Knowledges</b></u></h2> 
 
@@ -38,6 +49,7 @@
 ![](https://leetcard.jacoblin.cool/jules-pecaoco?)
 
 </div>
+
 
 
 
