@@ -39,8 +39,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=jules-pecaoco&show_icons=true&theme=dark&hide_border=true&locale=en)](https://github.com/jules-pecaoco)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jules-pecaoco&theme=dark)](https://github.com/jules-pecaoco)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-pecaoco&layout=compact&theme=dark)
 </div>
 
 <div align="center">
