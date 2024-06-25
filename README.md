@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Jules Pecaoco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Web Dev from Philippines</h3>
+<h3 font-size="20" align="center">A Technophile from Philippines</h3>
 
 
 - 🌱 I’m currently learning **To Learn** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👨‍💻 All of my projects are available [@jules-pecaoco](github.com/jules-pecaoco)
+- 👨‍💻 All of my projects are available [@jules-pecaoco](https://jules-pecaoco.github.io/reactjs-portfolio/)
 
 - 💬 Ask me about **Life Existential Crisis and Philosophy**
 
