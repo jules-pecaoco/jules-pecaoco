@@ -36,19 +36,6 @@
 <img a src="https://skillicons.dev/icons?i=figma,photoshop&perline=5" alt="icons"/>
 <img a src="https://skillicons.dev/icons?i=idea,vscode&perline=5" alt="icons"/>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-pecaoco&layout=compact&theme=dark)
-</div>
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Leetcode stats:</h2> 
-
-![](https://leetcard.jacoblin.cool/jules-pecaoco?)
-
-</div>
-
 
 
 
